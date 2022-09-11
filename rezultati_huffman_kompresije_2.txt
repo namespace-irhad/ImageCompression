@@ -1,0 +1,65 @@
+Slika: slike/5.1.09.tiff
+Originalna velicina: 65670 bajt. Kompresovana velicina: 64539 bajt. CR: 1.0175242876400317 %
+
+Slika: slike/5.1.12.tiff
+Originalna velicina: 65670 bajt. Kompresovana velicina: 64284 bajt. CR: 1.0215605749486654 %
+
+Slika: slike/5.1.13.tiff
+Originalna velicina: 65670 bajt. Kompresovana velicina: 36960 bajt. CR: 1.7767857142857142 %
+
+Slika: slike/5.1.14.tiff
+Originalna velicina: 65670 bajt. Kompresovana velicina: 63668 bajt. CR: 1.0314443676572218 %
+
+Slika: slike/5.2.08.tiff
+Originalna velicina: 262278 bajt. Kompresovana velicina: 256626 bajt. CR: 1.0220242687802483 %
+
+Slika: slike/5.2.10.tiff
+Originalna velicina: 262278 bajt. Kompresovana velicina: 256412 bajt. CR: 1.0228772444347378 %
+
+Slika: slike/5.3.01.tiff
+Originalna velicina: 1048710 bajt. Kompresovana velicina: 930306 bajt. CR: 1.1272742516978285 %
+
+Slika: slike/5.3.02.tiff
+Originalna velicina: 1048710 bajt. Kompresovana velicina: 974935 bajt. CR: 1.07567171144743 %
+
+Slika: slike/7.1.01.tiff
+Originalna velicina: 262278 bajt. Kompresovana velicina: 245958 bajt. CR: 1.0663527919400873 %
+
+Slika: slike/7.1.02.tiff
+Originalna velicina: 262278 bajt. Kompresovana velicina: 259026 bajt. CR: 1.012554724236177 %
+
+Slika: slike/7.1.03.tiff
+Originalna velicina: 262278 bajt. Kompresovana velicina: 252818 bajt. CR: 1.0374182218038273 %
+
+Slika: slike/7.1.04.tiff
+Originalna velicina: 262278 bajt. Kompresovana velicina: 247475 bajt. CR: 1.059816143044752 %
+
+Slika: slike/7.1.05.tiff
+Originalna velicina: 262278 bajt. Kompresovana velicina: 249748 bajt. CR: 1.050170571936512 %
+
+Slika: slike/7.1.06.tiff
+Originalna velicina: 262278 bajt. Kompresovana velicina: 246585 bajt. CR: 1.0636413407141554 %
+
+Slika: slike/7.1.07.tiff
+Originalna velicina: 262278 bajt. Kompresovana velicina: 243533 bajt. CR: 1.076971088107156 %
+
+Slika: slike/7.1.08.tiff
+Originalna velicina: 262278 bajt. Kompresovana velicina: 241115 bajt. CR: 1.0877713953922403 %
+
+Slika: slike/7.1.09.tiff
+Originalna velicina: 262278 bajt. Kompresovana velicina: 253888 bajt. CR: 1.033046067557348 %
+
+Slika: slike/7.1.10.tiff
+Originalna velicina: 262278 bajt. Kompresovana velicina: 249348 bajt. CR: 1.0518552384619086 %
+
+Slika: slike/7.2.01.tiff
+Originalna velicina: 1048710 bajt. Kompresovana velicina: 812574 bajt. CR: 1.2906024558994011 %
+
+Slika: slike/boat.512.tiff
+Originalna velicina: 262278 bajt. Kompresovana velicina: 260908 bajt. CR: 1.0052508930350927 %
+
+Slika: slike/gray21.512.tiff
+Originalna velicina: 262278 bajt. Kompresovana velicina: 253441 bajt. CR: 1.0348680758046251 %
+
+__
+

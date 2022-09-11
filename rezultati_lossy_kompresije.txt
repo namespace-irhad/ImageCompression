@@ -1,0 +1,35 @@
+___SLIKA:  bumbar.png
+Uncompressed size: 415009
+Compressed size: 32464
+Compression ratio: 12.783668063085264
+
+___SLIKA:  kamencici.png
+Uncompressed size: 669117
+Compressed size: 113638
+Compression ratio: 5.888144810714726
+
+___SLIKA:  kmart.png
+Uncompressed size: 373328
+Compressed size: 30982
+Compression ratio: 12.049835388289974
+
+___SLIKA:  mandril_boja.png
+Uncompressed size: 103150
+Compressed size: 15863
+Compression ratio: 6.502553111013049
+
+___SLIKA:  paprike.png
+Uncompressed size: 726506
+Compressed size: 67380
+Compression ratio: 10.782220243395667
+
+___SLIKA:  patka.png
+Uncompressed size: 645363
+Compressed size: 100889
+Compression ratio: 6.396762778895618
+
+___SLIKA:  pexels-photo-338936.jpg
+Uncompressed size: 170335
+Compressed size: 196191
+Compression ratio: 0.8682100606042071
+

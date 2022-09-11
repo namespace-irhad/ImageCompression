@@ -1,0 +1,208 @@
+___SLIKA: slike\bumbar.png
+Deflate Compression
+Uncompressed size: 415026
+Compressed size: 415162
+
+
+Burrows-Wheeler Compression
+Uncompressed size: 415009
+Compressed size: 416275
+
+
+LZMA Compression
+Uncompressed size: 415009
+Compressed size: 415088
+
+
+___SLIKA: slike\einstein.tif
+Deflate Compression
+Uncompressed size: 65803
+Compressed size: 52109
+
+
+Burrows-Wheeler Compression
+Uncompressed size: 65786
+Compressed size: 45528
+
+
+LZMA Compression
+Uncompressed size: 65786
+Compressed size: 44844
+
+
+___SLIKA: slike\jetplane.tif
+Deflate Compression
+Uncompressed size: 525123
+Compressed size: 219327
+
+
+Burrows-Wheeler Compression
+Uncompressed size: 525106
+Compressed size: 152435
+
+
+LZMA Compression
+Uncompressed size: 525106
+Compressed size: 170588
+
+
+___SLIKA: slike\kamencici.png
+Deflate Compression
+Uncompressed size: 669134
+Compressed size: 669345
+
+
+Burrows-Wheeler Compression
+Uncompressed size: 669117
+Compressed size: 667314
+
+
+LZMA Compression
+Uncompressed size: 669117
+Compressed size: 669208
+
+
+___SLIKA: slike\kmart.png
+Deflate Compression
+Uncompressed size: 373345
+Compressed size: 373466
+
+
+Burrows-Wheeler Compression
+Uncompressed size: 373328
+Compressed size: 374702
+
+
+LZMA Compression
+Uncompressed size: 373328
+Compressed size: 373408
+
+
+___SLIKA: slike\lake.tif
+Deflate Compression
+Uncompressed size: 525123
+Compressed size: 262817
+
+
+Burrows-Wheeler Compression
+Uncompressed size: 525106
+Compressed size: 184629
+
+
+LZMA Compression
+Uncompressed size: 525106
+Compressed size: 206508
+
+
+___SLIKA: slike\livingroom.tif
+Deflate Compression
+Uncompressed size: 262767
+Compressed size: 219870
+
+
+Burrows-Wheeler Compression
+Uncompressed size: 262750
+Compressed size: 187980
+
+
+LZMA Compression
+Uncompressed size: 262750
+Compressed size: 181824
+
+
+___SLIKA: slike\mandril_boja.png
+Deflate Compression
+Uncompressed size: 103167
+Compressed size: 103208
+
+
+Burrows-Wheeler Compression
+Uncompressed size: 103150
+Compressed size: 103822
+
+
+LZMA Compression
+Uncompressed size: 103150
+Compressed size: 103216
+
+
+___SLIKA: slike\paprike.png
+Deflate Compression
+Uncompressed size: 726523
+Compressed size: 726754
+
+
+Burrows-Wheeler Compression
+Uncompressed size: 726506
+Compressed size: 729605
+
+
+LZMA Compression
+Uncompressed size: 726506
+Compressed size: 726600
+
+
+___SLIKA: slike\patka.png
+Deflate Compression
+Uncompressed size: 645380
+Compressed size: 645586
+
+
+Burrows-Wheeler Compression
+Uncompressed size: 645363
+Compressed size: 645516
+
+
+LZMA Compression
+Uncompressed size: 645363
+Compressed size: 645456
+
+
+___SLIKA: slike\walkbridge.tif
+Deflate Compression
+Uncompressed size: 525123
+Compressed size: 278409
+
+
+Burrows-Wheeler Compression
+Uncompressed size: 525106
+Compressed size: 209450
+
+
+LZMA Compression
+Uncompressed size: 525106
+Compressed size: 222476
+
+
+___SLIKA: slike\woman_blonde.tif
+Deflate Compression
+Uncompressed size: 262767
+Compressed size: 212685
+
+
+Burrows-Wheeler Compression
+Uncompressed size: 262750
+Compressed size: 180714
+
+
+LZMA Compression
+Uncompressed size: 262750
+Compressed size: 179656
+
+
+___SLIKA: slike\woman_darkhair.tif
+Deflate Compression
+Uncompressed size: 262767
+Compressed size: 195639
+
+
+Burrows-Wheeler Compression
+Uncompressed size: 262750
+Compressed size: 140367
+
+
+LZMA Compression
+Uncompressed size: 262750
+Compressed size: 153796
+
+

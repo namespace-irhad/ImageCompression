@@ -1,0 +1,33 @@
+Slika: slike/bumbar.png
+Originalna velicina: 415009 bajt. Kompresovana velicina:998126bajt. Usteda -583117 bajta
+
+Slika: slike/einstein.tif
+Originalna velicina: 65786 bajt. Kompresovana velicina:62216bajt. Usteda 3570 bajta
+
+Slika: slike/kamencici.png
+Originalna velicina: 669117 bajt. Kompresovana velicina:1041254bajt. Usteda -372137 bajta
+
+Slika: slike/kmart.png
+Originalna velicina: 373328 bajt. Kompresovana velicina:1004911bajt. Usteda -631583 bajta
+
+Slika: slike/livingroom.tif
+Originalna velicina: 262750 bajt. Kompresovana velicina:256603bajt. Usteda 6147 bajta
+
+Slika: slike/mandril_boja.png
+Originalna velicina: 103150 bajt. Kompresovana velicina:158924bajt. Usteda -55774 bajta
+
+Slika: slike/paprike.png
+Originalna velicina: 726506 bajt. Kompresovana velicina:3009416bajt. Usteda -2282910 bajta
+
+Slika: slike/patka.png
+Originalna velicina: 645363 bajt. Kompresovana velicina:1066096bajt. Usteda -420733 bajta
+
+Slika: slike/pexels-photo-338936.jpg
+Originalna velicina: 170335 bajt. Kompresovana velicina:3195007bajt. Usteda -3024672 bajta
+
+Slika: slike/woman_blonde.tif
+Originalna velicina: 262750 bajt. Kompresovana velicina:259241bajt. Usteda 3509 bajta
+
+Slika: slike/woman_darkhair.tif
+Originalna velicina: 262750 bajt. Kompresovana velicina:257368bajt. Usteda 5382 bajta
+
